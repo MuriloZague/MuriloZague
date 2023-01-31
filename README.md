@@ -1,3 +1,3 @@
 - Hi, I’m @MuriloZague;
 - I'm interested in learning more about programming languages;
-- I’m currently learning javascript and python;
+- I’m currently learning javascript / python / react;
