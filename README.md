@@ -12,11 +12,11 @@
 
 <div align="left">  
 <a href="https://www.instagram.com/murilo_bz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-
-  
+</div>
+  <div align="left">  
 <a href="https://www.linkedin.com/in/murilo-zague-b39928255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-
-      
+</div>
+    <div align="left">  
 <a href="mailto:zaguemurilo7@gmail.com?subject=Quero me comunicar com você!&body=Quero%20me%20comunicar%20com%20voc%C3%AA!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
   
