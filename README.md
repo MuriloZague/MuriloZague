@@ -11,7 +11,7 @@
 
 <br>
 
-<section style="display: 'flex'; gap: '20px'" align="center">
+<div style="display: flex">
 <div>  
 <a href="https://www.instagram.com/murilo_bz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
@@ -21,7 +21,7 @@
     <div>  
 <a href="mailto:zaguemurilo7@gmail.com?subject=Quero me comunicar com você!&body=Quero%20me%20comunicar%20com%20voc%C3%AA!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
-</section>
+</div>
   
 <br>
   
