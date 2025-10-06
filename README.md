@@ -44,7 +44,7 @@
 
 <br> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!;Seja+Bem+Vindo!;¡Sea+Bienvenido!;Accueillir!;欢迎你们!;いらっしゃいませ！;مرحباً!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;Seja+Bem-Vindo!;¡Sea+Bienvenido!)](https://git.io/typing-svg)
 
 <br>
   
