@@ -11,7 +11,6 @@
 
 <br>
 
-<div style="display: flex">
 <div>  
 <a href="https://www.instagram.com/murilo_bz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
@@ -21,7 +20,7 @@
     <div>  
 <a href="mailto:zaguemurilo7@gmail.com?subject=Quero me comunicar com você!&body=Quero%20me%20comunicar%20com%20voc%C3%AA!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
-</div>
+
   
 <br>
   
@@ -41,18 +40,13 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/PHP-0D1117?logo=php&logoColor=1572B6&style=for-the-badge)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?logo=openjdk&logoColor=1572B6&style=for-the-badge)&nbsp;
 
 <br> <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!;Seja+Bem+Vindo!;¡Sea+Bienvenido!;Accueillir!;欢迎你们!;いらっしゃいませ！;مرحباً!)](https://git.io/typing-svg)
 
 <br>
-
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MuriloZague}/count.svg" /></p> 
-<br></div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
